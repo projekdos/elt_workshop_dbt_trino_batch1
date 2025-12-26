@@ -11,7 +11,7 @@ This hands-on technical workshop is prepared by:
 ## Workshop Information
 
 **Title:**  
-**Building an Exploring dbt Core and Trino for DWH Transformation**
+**Exploring dbt Core and Trino for DWH Transformation**
 
 **Date:** 
 28 December 2025  
