@@ -67,7 +67,7 @@ The case study will guide participants from **raw data ingestion** to **final da
 
 ![Alt text](https://github.com/projekdos/elt_workshop_dbt_trino_batch1/blob/main/image/preview-dbt.png)
 
-![Alt text]("https://github.com/projekdos/elt_workshop_dbt_trino_batch1/blob/main/image/preview -schema-trino.png")
+![Alt text](https://github.com/projekdos/elt_workshop_dbt_trino_batch1/blob/main/image/preview-schema-trino.png)
 
 ---
 
