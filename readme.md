@@ -61,7 +61,7 @@ All sessions are **free**, hands-on, and fully based on **open-source tech stack
 
 ## Case Study
 
-### 🚚 Shipment & Logistics Analytics
+### Shipment & Logistics Analytics
 
 The case study will guide participants from **raw data ingestion** to **final data mart**.
 
@@ -71,7 +71,7 @@ The case study will guide participants from **raw data ingestion** to **final da
 
 ---
 
-## 🧠 Hands-on Activities
+## Hands-on Activities
 
 - Create dbt models (staging, dimension, fact, datamart)
 - Run dbt transformations using Trino
@@ -116,7 +116,7 @@ This workshop is suitable for:
 
 **Contact:**
 - Email: contact@projekdos.com, projek.freedomopensource@gmail.com
-- Website: https:///www.projekdos.com
+- Website: https://www.projekdos.com
 - LinkedIn: https://www.linkedin.com/company/projek-dos/
 - Discord: https://discord.com/invite/zvvBv7pyUh
 - Instagram: https://www.instagram.com/projekdos/
